@@ -1,3 +1,7 @@
+You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
+
+[Know about the life of this world](00-Life-of-this-world/Life of this world.md)
+
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
 Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
@@ -701,6 +705,7 @@ You made it through the day and are starting to get sleepy... [Time to fall asle
 You wake up in front of a computer screen. You begin reading
 the text of a markdown file called marshmallow.md. As you read
 you realize that the story is about you!
+[remember this story!](this-story-is-about-you/this-story-is-about-you.md)
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
@@ -825,3 +830,5 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 [Paint It Black](paint-it-black/PaintItBlack.md)
 
 [Try to solve Rubik's Cube](rubik-cube/rubik-cube.md)
+
+[To Infinity and Beyond](math/math.md)
